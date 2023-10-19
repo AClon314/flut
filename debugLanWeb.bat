@@ -1,0 +1,1 @@
+flutter run -d edge --web-hostname 0.0.0.0 --web-port 80 --web-launch-url "http://127.0.0.1" --web-renderer html
